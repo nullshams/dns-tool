@@ -71,4 +71,4 @@ This project is released under the [MIT License](https://opensource.org/licenses
 
 ## 👨‍💻 Author
 
-Created with 💚 by [METI]
+Created with 💚 by [shams]
