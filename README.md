@@ -21,7 +21,7 @@ Getting started with DNS Manager is straightforward:
 1.  **Clone the repository or download the script:**
 
     ```bash
-    git clone https://github.com/mehditoxic/dns-tool.git
+    git clone https://github.com/nullshams/dns-tool.git
     cd dns-tool
     ```
 
